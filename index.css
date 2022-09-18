@@ -13,3 +13,10 @@ h1 {
     margin-right: auto;
     width: 25;
 }
+:any-link{
+
+    font: bold;
+    color: bisque;
+    font-size: 65px;
+    text-align: center;
+}
