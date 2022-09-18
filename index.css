@@ -18,5 +18,7 @@ h1 {
     font: bold;
     color: bisque;
     font-size: 65px;
-    text-align: center;
+    margin: auto;
+    display: block;
+    width:1000px;
 }
