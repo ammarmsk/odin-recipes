@@ -34,6 +34,10 @@ h1{
     
 }
 .center {
+  opacity: 1.0;
+}
+
+.center:hover {
   opacity: 0.85;
 }
 
