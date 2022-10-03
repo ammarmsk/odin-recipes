@@ -10,11 +10,11 @@ h1{
     color: crimson;
     font-size: 46px;
     font-weight: bolder;
-    background-color:black;
+    background-color:white;
     border: 10px solid ;
     border-radius: 30px;
     padding: 20px;
-    opacity: 0.85;
+    opacity: 0.82;
 }
 
 .recipe-list {
@@ -25,12 +25,12 @@ h1{
     margin-top: 50px;
     font-family: "Lucida Console", "Courier New", monospace;
     font-size: 40px;
-    background-color:black;
+    background-color:white;
     border: 10px solid ;
     border-radius: 30px;
     padding: 50px;
     color: crimson;
-    opacity: 0.85;
+    opacity: 0.82;
     
 }
 .center {
